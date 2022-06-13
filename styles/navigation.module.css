@@ -1,0 +1,22 @@
+.navContainer {
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navContainer ul {
+  list-style: none;
+  display: flex;
+}
+
+.logo {
+  margin: 0;
+  font-family: "Playfair Display", serif;
+  font-size: 1.3rem;
+}
+.navItem {
+  margin: 0 1rem;
+  font-weight: 500;
+}
