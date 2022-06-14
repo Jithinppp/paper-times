@@ -6,10 +6,6 @@
   display: flex;
   flex-direction: column;
   max-width: 350px;
-  transition: 0.3s ease-in-out;
-}
-.blogPostContainer:hover {
-  transform: scale(1.03);
 }
 
 .cardTitle {
@@ -18,7 +14,7 @@
 }
 
 .authorContainer {
-  padding: 1rem;
+  padding: 0 1rem;
   display: flex;
   justify-content: space-between;
   font-size: 0.8rem;
